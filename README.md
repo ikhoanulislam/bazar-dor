@@ -2,7 +2,7 @@
 
 > প্রয়োজনীয় পণ্যের দাম এক নজরে — চাল, ডাল, তেল, সবজি, মাছ, মাংস, ডিম ও মসলার আজকের বাজার দর, বাজারভিত্তিক তুলনাসহ।
 
-**Live:** _add your Vercel link here_ · **Repo:** _add your GitHub link here_
+**Live:** _add your Vercel link here_ · Repo: https://github.com/ikhoanulislam/bazar-dor
 
 ## 🧰 Technologies
 
